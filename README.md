@@ -3,12 +3,13 @@
 </div>
 
 <div id="main-badges" align="center">
-  <a href="https://t.me/ishios">
-    <h2>✈ TG channel && GitHub subs:</h2>
+  <h2>✈ TG channel && GitHub subs:</h2>
+  <a href="https://t.me/ishios" target="_blank">
     <img alt="Telegram Badge" src="https://img.shields.io/badge/Telegram-Channel-33A8E3"/>
   </a>
   <img src="https://img.shields.io/github/followers/k1rrrkvz?logo=github" alt="GitHub followers"/>
 </div>
+
 
 <div id="tools-badges" align="left">
   <h2>⚙️ My tools:</h2>
